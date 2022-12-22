@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://LoveleenM.github.io/nbdev"
+  description: "loveleen"
+  repo-branch: main
+  repo-url: "https://github.com/LoveleenM/nbdev"
